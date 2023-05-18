@@ -1,8 +1,8 @@
 <img align="left" src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-27-06-cat_ready.gif" width="auto" height="auto"/>
 
-## Hi there😄 , I'm Khánh Phan
+## 👋 Welcome to my github!
 
-<img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-32-30-erm-fingers.gif" alt="erm-fingers.gif" width="40"> Sorry if you feel lost time because most of my projects have vietnamese content
+<img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-32-30-erm-fingers.gif" alt="erm-fingers.gif" width="40"> My github is still simple. Wish you sympathize...
 
 <br>
 
