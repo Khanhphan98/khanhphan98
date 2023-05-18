@@ -2,7 +2,7 @@
 
 ## 👋 Welcome to my github!
 
-<img title="" src="https://raw.githubusercontent.com/Khanhphan98/Image/master/2021/06/08-15-32-30-erm-fingers.gif" alt="erm-fingers.gif" width="40"> My github is still simple. Wish you sympathize...
+My github is still simple. Wish you sympathize...
 
 <br>
 
