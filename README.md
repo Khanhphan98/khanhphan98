@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/Khanhphan98/Image/master/2021/06/08-15-27-06-cat_ready.gif" width="auto" height="auto"/>
+<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/mTPjPA6SSXgTsnZ1Dh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-funny-code-not-working-mTPjPA6SSXgTsnZ1Dh">via GIPHY</a></p>
 
 ## 👋 Welcome to my github!
 
