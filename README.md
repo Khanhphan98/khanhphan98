@@ -8,10 +8,6 @@ My github is still simple. Wish you sympathize...
 
 ![Khánh Phan's github stats](https://github-readme-stats.vercel.app/api?username=Khanhphan98&show_icons=true&theme=tokyonight)- 
 
-
----
-
-
 | Language                                        | Version |
 |-------------------------------------------------|---------|
 | [HTML](https://github.com/Khanhphan98/HTML)     |    --   |
@@ -22,3 +18,5 @@ My github is still simple. Wish you sympathize...
 | [NODEJS](https://github.com/Khanhphan98/NODEJS) |  21.6.0 |
 | [PYTHON](https://github.com/Khanhphan98/PTYHON) |   3.11  |
 | [DJANGO](https://github.com/Khanhphan98/DJANGO) |   5.0.7 |
+
+---
