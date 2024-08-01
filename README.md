@@ -1,6 +1,8 @@
-<img  src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="300" height="auto"/>
+<div align="center"><img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="300" height="auto"/></div>
 
-## 👋 Welcome to my github!
+<h3 align="center">👋 Welcome to my github!</h3>
+
+##
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
