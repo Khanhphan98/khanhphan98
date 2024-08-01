@@ -2,7 +2,11 @@
 
 ## 👋 Welcome to my github!
 
-My github is still simple. Wish you sympathize...
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="kdeveloper.net">Khánh</a></b>
+        </samp>
+</h3>
 
 <br>
 
