@@ -14,11 +14,11 @@ My github is still simple. Wish you sympathize...
 
 | Language                                        | Version |
 |-------------------------------------------------|---------|
-| [HTML](https://github.com/Khanhphan98/HTML)     |         |
-| [CSS](https://github.com/Khanhphan98/CSS)       |         |
-| [JS](https://github.com/Khanhphan98/JS)         |         |
-| [TS](https://github.com/Khanhphan98/TS)         |         |
-| [VUE](https://github.com/Khanhphan98/VUE)       |         |
-| [NODEJS](https://github.com/Khanhphan98/NODEJS) |         |
-| [PYTHON](https://github.com/Khanhphan98/PTYHON) |         |
-| [DJANGO](https://github.com/Khanhphan98/DJANGO) |         |
+| [HTML](https://github.com/Khanhphan98/HTML)     |    --   |
+| [CSS](https://github.com/Khanhphan98/CSS)       |    --   |
+| [JS](https://github.com/Khanhphan98/JS)         |    --   |
+| [TS](https://github.com/Khanhphan98/TS)         |   5.3   |
+| [VUE](https://github.com/Khanhphan98/VUE)       |   3.3   |
+| [NODEJS](https://github.com/Khanhphan98/NODEJS) |  21.6.0 |
+| [PYTHON](https://github.com/Khanhphan98/PTYHON) |   3.11  |
+| [DJANGO](https://github.com/Khanhphan98/DJANGO) |   5.0.7 |
